@@ -1,0 +1,32 @@
+body {
+background-color: white;
+color:#0A3871;
+}
+
+.button1 {
+padding: 24px;
+gap: 8px;
+width: 332px;
+height: 67px;
+background: #0A3871;
+color:  white;
+border-radius: 24px;
+margin: 5px;
+}
+
+.button2 {
+padding: 24px;
+gap: 8px;
+width: 332px;
+height: 67px;
+background: white;
+border-radius: 24px;
+margin: 5px;
+}
+
+.container {
+display: flex;
+flex-direction: row; 
+max-width: 900px;
+margin: auto;
+}
